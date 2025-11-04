@@ -8,3 +8,8 @@ Total weight of TEP-300 with its case and batteries: 188g<br />
 https://multimedia.3m.com/mws/media/2208992O/3m-peltor-technical-data-specification-tep-300-usac.pdf<br />
 Remote Control Unit: 222g<br />
 https://multimedia.3m.com/mws/media/2208990O/3m-peltor-techn-data-spec-scu-300-usac.pdf<br />
+
+## How to install:
+1. Download .zip
+2. Unpack it
+3. Move SPT folder into your SPTarkov repository
