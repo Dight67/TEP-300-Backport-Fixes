@@ -1,0 +1,12 @@
+{
+    "manifest": [
+        {
+            "key": "Gear_Headsets/tep300.bundle",
+            "dependencyKeys": [
+                "shaders",
+                "cubemaps",
+                "assets/commonassets/physics/physicsmaterials.bundle"
+            ]
+        }
+    ]
+}

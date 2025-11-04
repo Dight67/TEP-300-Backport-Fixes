@@ -1,0 +1,12 @@
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\bin\Release\net9.0\TEP300headset.deps.json
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\bin\Release\net9.0\TEP300headset.dll
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\bin\Release\net9.0\TEP300headset.pdb
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.csproj.AssemblyReference.cache
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.AssemblyInfoInputs.cache
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.AssemblyInfo.cs
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.csproj.CoreCompileInputs.cache
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.dll
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\refint\TEP300headset.dll
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\TEP300headset.pdb
+C:\Users\nem\Documents\Visual Studio 2022\TEP300headset\TEP300headset\obj\Release\net9.0\ref\TEP300headset.dll
