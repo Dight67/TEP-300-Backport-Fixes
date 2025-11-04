@@ -1,4 +1,4 @@
-# TEP-300-Backport-Fixes
+# TEP-300 Backport and Fixes
 Backport of Peltor TEP-300 for SPTarkov 4.0.3 with fixes.<br />
 Included model has gray color and preserves all statistics of `Peltor ComTac II` headset from SPT.<br />
 Weight has been adjusted to be more realistic, instead just copying 1:1 existing headset, like BSG did.
