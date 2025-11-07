@@ -1,0 +1,47 @@
+{
+    "69092d17ce2a0e0cfe00d860": {
+        "itemTplToClone": "5645bcc04bdc2d363b8b4572",
+        "parentId": "5645bcb74bdc2ded0b8b4578",
+        "handbookParentId": "5b5f6f3c86f774094242ef87",
+        "overrideProperties": {
+            "ExaminedByDefault": true,
+            "Prefab": {
+                "path": "Gear_Headsets/tep300.bundle",
+                "rcid": ""
+            },
+            "Width": 1,
+            "Height": 1,
+            "Weight": 0.41,
+            "ConflictingItems": []
+        },
+        "locales": {
+            "en": {
+                "name": "Peltor TEP-300 tactical earplug (Gray)",
+                "shortName": "TEP-300",
+                "description": "A special in-ear headset for communication and hearing protection. Manufactured by 3M Peltor. Gray version."
+            }
+        },
+        "addtoInventorySlots": [ "Earpiece" ],
+        "fleaPriceRoubles": 83439,
+        "handbookPriceRoubles": 64837,
+        "addtoBots": true,
+        "addtoTraders": true,
+        "traders": {
+            "RAGMAN": {
+                "690dcb9feb6f9af38a09d071": {
+                    "barterSettings": {
+                        "loyalLevel": 2,
+                        "unlimitedCount": true,
+                        "stackObjectsCount": 1
+                    },
+                    "barters": [
+                        {
+                            "count": 92783,
+                            "_tpl": "MONEY_ROUBLES"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
