@@ -19,6 +19,11 @@
                 "name": "Peltor TEP-300 tactical earplug (Gray)",
                 "shortName": "TEP-300",
                 "description": "A special in-ear headset for communication and hearing protection. Manufactured by 3M Peltor. Gray version."
+            },
+            "ru": {
+                "name": "Тактическая вставные наушники Peltor TEP-300 (Серые)",
+                "shortName": "TEP-300",
+                "description": "Специальная гарнитура-вкладыш для общения и защиты слуха. Изготовлена компанией 3M Peltor. Серая версия."
             }
         },
         "addtoInventorySlots": [ "Earpiece" ],
